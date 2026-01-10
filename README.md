@@ -1,2 +1,2 @@
 # marketing-assets
-arketing-assets
+marketing-assets
